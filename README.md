@@ -1,7 +1,7 @@
 ### 👋 Hello there! Welcome to my GitHub profile!
 🎓 Computer Engineer Student at University of Hacettepe. 4th Grade
 
-🔭 I’m currently working on Unity 
+🔭 I’m currently working on Visual C++ 
 
 <!--
 **bakkalzade/bakkalzade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
